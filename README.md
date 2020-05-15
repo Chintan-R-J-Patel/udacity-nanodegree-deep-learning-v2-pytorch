@@ -56,8 +56,9 @@ conda install git
 	conda install pytorch -c pytorch
 	pip install torchvision
 	```
+2. Download the dataset from the Drive link : https://drive.google.com/open?id=1-YXJs8diJMPakIewV__ptUlTyDtHe8Zk
 
-2. Install a few required pip packages, which are specified in the requirements text file (including OpenCV).
+3. Install a few required pip packages, which are specified in the requirements text file (including OpenCV).
 ```
 pip install -r requirements.txt
 ```
