@@ -63,7 +63,7 @@ conda install git
 pip install -r requirements.txt
 ```
 
-3. Clone the repository. Now we are ready to run the jupyter notebook, check you default browser and open dlnd_face_generation.ipynb file
+4. Clone the repository. Now we are ready to run the jupyter notebook, check you default browser and open dlnd_face_generation.ipynb file
 
 ```
 jupyter notebook
